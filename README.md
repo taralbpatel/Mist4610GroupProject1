@@ -6,7 +6,7 @@
 ## Team Members:
 
 1. Taral Patel 
-2. Angel Marsh
+2. Angel Marsh [@angelmarsh](https://www.github.com/apm83682)
 3. Riley Doggett
 4. Ripley Kurtz
 5. Sequoyeth Simpson
