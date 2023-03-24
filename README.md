@@ -8,7 +8,7 @@
 1. Taral Patel 
 2. Angel Marsh [@angelmarsh](https://www.github.com/apm83682)
 3. Riley Doggett [@rileydoggett](https://www.github.com/RileyDoggett)
-4. Ripley Kurtz
+4. Ripley Kurtz[@ripleykurtz](https://www.github.com/RipleyKurtz)
 5. Sequoyeth Simpson
 
 ## Problem Description:
