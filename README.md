@@ -86,8 +86,30 @@ Query 5 allows the resort to manage how busy their check in will be during the P
 
 ![Screen Shot 2023-03-30 at 10 09 53 PM](https://user-images.githubusercontent.com/128402101/229004928-5ff708ee-d901-4af0-afb4-1dc44495b08a.png)
 
-Query 6 allows the resort to determine what guests are contributing the most to each activity’s revenue. It also enables the resort to send reqards to their most loyal customers to thank them for their contributions and enagement with the resort.  
+Query 6 allows the resort to determine what guests are contributing the most to each activity’s revenue. The resort may use this information to reward guests who spend the most on activities by offering special prizes and promotions, creating guest loyalty and creating an incentive to reserve even more.
 
+7. Query 7 lists the amount of dining reservations per guest and the revenue generated per guest.
+
+
+
+Query 7 allows the resort to see how much customers are spending on their vacation as well as how many dining reservations people are making at the resort as opposed to nearby external restaurants.
+
+8. Query 8 lists 
+
+9. Query 9 lists all the rooms along with their average room view rating if the rating is above a 4 star. Additionally, the query is sorted by the view rating and arranged in descending order.
+
+
+Query 9 allows the employees and customers to see which rooms have an average view rating of 4 or more. Rooms with extravagant views are huge attractions to customers and can be a deciding factor when picking which room to stay in. This will help employees find which rooms have the best views fast and efficiently when asked.
+
+10. Query 10 lists the names and prices of all activities offered by the resort that have not yet been booked by any guests and that are less than or equal to $50. Additionally, the results of the query are ordered by price in ascending order.
+
+
+
+Query 10 allows the employees and customers to see what activities have not been booked yet, and the prices for these activities. The price is sorted in ascending order to make it easier to find the most affordable activities which most people are looking for. Activities are a huge part of the resort experience and using this script will make it easy for employees to find which activities are available as well as the prices for these activities.
 
 ## Database information:
-1.Name of the database: ns_21479_1
+
+Name of the database: ns_21479_1
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
+CALL TP_Q1();
