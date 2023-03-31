@@ -19,12 +19,14 @@ An explanation of the data model including the relationships between the entitie
 
 ![Screen Shot 2023-03-30 at 9 42 10 PM](https://user-images.githubusercontent.com/128402101/229001455-ddc3361b-422f-483c-b4d8-01edc47e4afa.png)
 
-
-
-
 ## Data Dictionary:
-The data dictionary explains the different columns in the different tables including data types and
-their roles. Please refer to sample present on ELC.
+![Screen Shot 2023-03-30 at 9 47 17 PM](https://user-images.githubusercontent.com/128402101/229002096-362cf55c-86b7-40e0-ae42-6120c5ab3d51.png)
+
+![Screen Shot 2023-03-30 at 9 47 45 PM](https://user-images.githubusercontent.com/128402101/229002159-c7242e00-592e-4b10-9a09-1510a2728a4d.png)
+
+![Screen Shot 2023-03-30 at 9 48 13 PM](https://user-images.githubusercontent.com/128402101/229002240-9817894f-9efd-4b15-af49-9712e8ec225b.png)
+
+
 
 ## Ten Queries:
 1. Include a natural language description of the query 
