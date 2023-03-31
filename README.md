@@ -12,7 +12,8 @@
 5. Sequoyeth Simpson [@sequoyethsimpson](https://www.github.com/quoysimpson)
 
 ## Problem Description:
-The task at hand is to model and build a relational database for the general workings of a resort company. The central entity in the model is the Hotel entity of the resort- Hotel being each physical inn the company owns and operates in various locations. The hotel is operated in conjunction with the activities, dining establishments, a transportation service, etc. that it offers to the guests who book with them. We are interested in accurately modeling these relationships, generating sample data, and populating the entities and their attributes with this sample data. Furthermore, we are interested in performing functioning queries on this data so that they may provide us with valuable business insights about the resort and its operations.
+
+Our model is based on the structure of a hypothetical vacation resort. The department entity is representative of a department (Finance, Human Resources, Food & Beverage, etc.) inside a resort location. Inside of this department, there are many employees, and this is represented by the one to many relationship we have placed between the Department and Employees entities. There are also many employees inside of the hotel portion of the resort, which is why we established a one to many relationship between the Hotel and Employees tables as well. There are two branches that come from the Hotel table. First, the Dining table represents all of the restaurants in the hotel. This table includes the revenue of the restaurant, the hours they are open, the dress code, and more. Restaurants in the Dining table have many reservations made by different guests of the resort, so there is a one to many relationship between the Dining entity and the DiningReservation entity. On the other branch off of the Hotel table, there is the Room table. This simply contains all of the rooms inside each hotel. Because a guest can book many rooms, and rooms can be booked by many guests, we created an associative entity between room and guests called RoomReservation. The RoomReservation table allows the user to see which guests are in which room, when they check in, when they check out, and other information on the room. There are various activities in the resort as well, and we’ve shown this by including an Activities table. The Activities table shows the price of the activity, its description, and the activity name. Guests may reserve many activities and activities can be reserved by many guests, so because of this we created an ActivityReservation table as the associative entity between Guests and Activity. ActivityReservation contains the activity time, the number of guests, the reservationID, and the guestID of the guest who registered for the activity. 
 
 ## Data Model
 An explanation of the data model including the relationships between the entities in natural English.
@@ -44,7 +45,7 @@ An explanation of the data model including the relationships between the entitie
 
 ![Screen Shot 2023-03-30 at 9 58 48 PM](https://user-images.githubusercontent.com/128402101/229003594-e640c190-4e87-4d4d-a81b-7f04085cbed8.png)
 
-## Ten Queries:
+## Queries:
 
 1. Query 1 lists
 
