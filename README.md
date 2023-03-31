@@ -9,7 +9,7 @@
 2. Angel Marsh [@angelmarsh](https://www.github.com/apm83682)
 3. Riley Doggett [@rileydoggett](https://www.github.com/RileyDoggett)
 4. Ripley Kurtz[@ripleykurtz](https://www.github.com/RipleyKurtz)
-5. Sequoyeth Simpson
+5. Sequoyeth Simpson [@sequoyethsimpson](https://www.github.com/quoysimpson)
 
 ## Problem Description:
 The task at hand is to model and build a reltional database for the general workings of a resort company. The central entity in the model is the Hotel entity of the resort- Hotel being each physical inn the company owns and operates in various locations. The hotel is operated in conjunction with the activities, dining establishments, transportation service, etc. that it offers to the guests who book with them. We are interested in accurately modeling these relationships, generating sample data, and populating the entities and their attributes with this sample data. Furthermore, we are interested in performing functioning queries on this data so that they may provide us with valuable business insight about the resort and its operations.
