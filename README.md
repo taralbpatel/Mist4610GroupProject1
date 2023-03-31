@@ -66,6 +66,8 @@ Lastly, there is a transportation entity that represents the transportation serv
 
 ## Queries:
 
+![Screen Shot 2023-03-31 at 6 37 36 PM](https://user-images.githubusercontent.com/128402101/229244775-f60ebfa8-49b5-4dc1-95f4-ae027192c111.png)
+
 1. Query 1 lists the number of reservations at each dining establishment that were made for between 6 and 8pm as well as the name of each dining establishment these reservation were made for. The results are also ordered by number of reservations in descending order.
 
 ![Screen Shot 2023-03-31 at 5 50 12 PM](https://user-images.githubusercontent.com/128402101/229239154-7637136b-5ddd-400c-9335-f3e571507ed7.png)
@@ -108,11 +110,11 @@ Query 6 allows the resort to determine what guests are contributing the most to 
 
 Query 7 allows the resort to see how many guests they should plan to seat, how the tables should be set up, and can lead to the resort figuring out how much revenue should be expected for the average visit.
 
-8. Query 8 lists the amount of guests that get new rooms. 
+8. Query 8 lists the guestID, guest name, and the number of room reservations per guest.
 
+![Screen Shot 2023-03-31 at 6 34 05 PM](https://user-images.githubusercontent.com/128402101/229244470-c29f68b3-f837-4a18-97bb-f86345b84431.png)
 
-
-Query 8 allows the resort to know the quality of each room, how well cleaning services are keeping up with the rooms, and guage how satisfied customers are with their rooms.
+Query 8 allows the resort to identify their frequent customers and how many times they have stayed. This could lead to a card system down the line. If a guest reaches 5 or 10 visits, there could be a platinum card which would gift the user reservation priority, food discounts, and other perks.
 
 9. Query 9 lists all the rooms along with their average room view rating if the rating is above a 4 star. Additionally, the query is sorted by the view rating and arranged in descending order.
 
