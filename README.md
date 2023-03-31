@@ -17,6 +17,8 @@ The task at hand is to model and build a reltional database for the general work
 ## Data Model
 An explanation of the data model including the relationships between the entities in natural English.
 
+![Screen Shot 2023-03-30 at 9 42 10 PM](https://user-images.githubusercontent.com/128402101/229001455-ddc3361b-422f-483c-b4d8-01edc47e4afa.png)
+
 
 
 
