@@ -50,13 +50,13 @@ Our model is based on the structure of a hypothetical vacation resort. The depar
 
 ## Queries:
 
-1. Query 1 lists
+1. Query 1 lists the number of reservations at each dining establishment that were made for between 6 and 8pm as well as the name of each dining establishment these reservation were made for. The results are also ordered by number of reservations in descending order.
 
 ![Screen Shot 2023-03-31 at 5 02 30 PM](https://user-images.githubusercontent.com/128402101/229229480-43e16cc1-7d57-4576-94ce-482a5357e515.png)
 
-Query 1 allows
+Query 1 allows allows managers to see which establishments have received the most number of reservations during their busiest time (6-8pm) which is typically dinner time. These establishments likely need more support, resources, and personnel around dinner time. Therefore, this query allows managers to identify which establishments to allocate this extra help to. Listing the results in descending order of number of reservations makes it easier to see which establishment to prioritize.
 
-2. Query 2 lists
+2. Query 2 lists 
 
 
 
@@ -86,17 +86,17 @@ Query 5 allows the resort to manage how busy their check in will be during the P
 
 Query 6 allows the resort to determine what guests are contributing the most to each activity’s revenue. The resort may use this information to reward guests who spend the most on activities by offering special prizes and promotions, creating guest loyalty and creating an incentive to reserve even more.
 
-7. Query 7 lists the amount of dining reservations per guest and the revenue generated per guest.
+7. Query 7 lists the the amount of dining reservations per guest and the average amount of guests these reservations have.
 
 ![Screen Shot 2023-03-31 at 5 03 39 PM](https://user-images.githubusercontent.com/128402101/229229798-8384cdf5-51fd-416a-a52d-ba0a400d29ce.png)
 
-Query 7 allows the resort to see how much customers are spending on their vacation as well as how many dining reservations people are making at the resort as opposed to nearby external restaurants.
+Query 7 allows the resort to see how many guests they should plan to seat, how the tables should be set up, and can lead to the resort figuring out how much revenue should be expected for the average visit.
 
-8. Query 8 lists 
+8. Query 8 lists the amount of guests that get new rooms. 
 
 ![Screen Shot 2023-03-31 at 5 04 05 PM](https://user-images.githubusercontent.com/128402101/229229931-5984c9ad-3088-4fe5-9cf0-a112d86e2374.png)
 
-Query 8 allows
+Query 8 allows the resort to know the quality of each room, how well cleaning services are keeping up with the rooms, and guage how satisfied customers are with their rooms.
 
 9. Query 9 lists all the rooms along with their average room view rating if the rating is above a 4 star. Additionally, the query is sorted by the view rating and arranged in descending order.
 
