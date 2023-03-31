@@ -80,24 +80,14 @@ A restaurant with a high star rating is a large source of revenue for the resort
 
 ![Screen Shot 2023-03-30 at 10 09 24 PM](https://user-images.githubusercontent.com/128402101/229004878-8f76c354-f888-48e7-9812-dd510315a44c.png)
 
-QUery 5 allows the resort to manage how busy their check in will be during the PM hours of early April in their better hotels where the check in rooms are singles or suites. This can help the resort determine how many employees need to be working the check in desks to check in single or suite reservations in the afternoon of these dates in these specific hotels.
+Query 5 allows the resort to manage how busy their check in will be during the PM hours of early April in their better hotels where the check in rooms are singles or suites. This can help the resort determine how many employees need to be working the check in desks to check in single or suite reservations in the afternoon of these dates in these specific hotels.
 
 6. Query 6 lists the names of guests who have over 10 activity reservations and the activities that they have those reservations in.
 
 ![Screen Shot 2023-03-30 at 10 09 53 PM](https://user-images.githubusercontent.com/128402101/229004928-5ff708ee-d901-4af0-afb4-1dc44495b08a.png)
 
-Query 6 allows the resort to determine what guests are contributing the most to each activity’s revenue. It also the resort to determine who they should market different activities to more since they do not have as many activity reservations. 
+Query 6 allows the resort to determine what guests are contributing the most to each activity’s revenue. It also enables the resort to send reqards to their most loyal customers to thank them for their contributions and enagement with the resort.  
 
 
 ## Database information:
-1. The name of the database on the MySQL server. 
-2. Bookmarked queries using stored procedures under Module 7
-
-Each table should be populated with enough
-data so that the queries return a sufficient result set. All queries should be bookmarked through
-the use of stored procedures (take a look at the example under Module 7) according to this
-format: TP_Qx (where x is to be replaced by the query number).
-Query 1 Query 2 ..........
-mul-ple table join x
-subquery x x
-... 
+1.Name of the database: ns_21479_1
