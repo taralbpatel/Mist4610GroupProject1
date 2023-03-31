@@ -72,11 +72,11 @@ Lastly, there is a transportation entity that represents the transportation serv
 
 Query 1 allows allows managers to see which establishments have received the most number of reservations during their busiest time (6-8pm) which is typically dinner time. These establishments likely need more support, resources, and personnel around dinner time. Therefore, this query allows managers to identify which establishments to allocate this extra help to. Listing the results in descending order of number of reservations makes it easier to see which establishment to prioritize.
 
-2. Query 2 lists 
+2. Query 2 lists the number of dining reservations made by guests on each floor. The results are ordered in ascending order of floor number.
 
+![Screen Shot 2023-03-31 at 5 29 49 PM](https://user-images.githubusercontent.com/128402101/229235726-71f88947-d0ef-4601-a03b-de1ae5a45580.png)
 
-
-Query 2 allows
+Query 2 allows managers to see whether there is a trend between what floor a guest stays on and how much they reserve tabes at the resort's dining establishments. If managers were to find that dining reservations decreased as the floor number increased, it would have possibly indicated that guests were not dining at dining establishments because they felt the distance of the dining establishment from their room was too far and inconvenient.
 
 3. Query 3 lists the information for all the guests who have not made an activity reservation.
 
