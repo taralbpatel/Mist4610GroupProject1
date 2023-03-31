@@ -52,7 +52,7 @@ Our model is based on the structure of a hypothetical vacation resort. The depar
 
 1. Query 1 lists
 
-
+![Screen Shot 2023-03-31 at 5 02 30 PM](https://user-images.githubusercontent.com/128402101/229229480-43e16cc1-7d57-4576-94ce-482a5357e515.png)
 
 Query 1 allows
 
@@ -88,13 +88,13 @@ Query 6 allows the resort to determine what guests are contributing the most to 
 
 7. Query 7 lists the amount of dining reservations per guest and the revenue generated per guest.
 
-
-
+![Screen Shot 2023-03-31 at 5 03 39 PM](https://user-images.githubusercontent.com/128402101/229229798-8384cdf5-51fd-416a-a52d-ba0a400d29ce.png)
 
 Query 7 allows the resort to see how much customers are spending on their vacation as well as how many dining reservations people are making at the resort as opposed to nearby external restaurants.
 
 8. Query 8 lists 
 
+![Screen Shot 2023-03-31 at 5 04 05 PM](https://user-images.githubusercontent.com/128402101/229229931-5984c9ad-3088-4fe5-9cf0-a112d86e2374.png)
 
 Query 8 allows
 
