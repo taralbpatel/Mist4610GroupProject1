@@ -44,13 +44,8 @@ An explanation of the data model including the relationships between the entitie
 
 ![Screen Shot 2023-03-30 at 9 58 48 PM](https://user-images.githubusercontent.com/128402101/229003594-e640c190-4e87-4d4d-a81b-7f04085cbed8.png)
 
-
-
-
-
-
-
 ## Ten Queries:
+
 1. Include a natural language description of the query 
 2. A justification as to why each query is relevant from a managerial perspective (why would a manager be interested in the query results).
 3. Screenshots of the query and responses
@@ -68,6 +63,31 @@ EXISTS, and more.
 You may combine some of the preceding list of features into a single query (still have to provide
 10 queries). Indicate in matrix format in your report which features are covered in a query. A
 sample matrix is shown
+
+3. Query 3 lists the information for all the guests who have not made an activity reservation.
+
+![Screen Shot 2023-03-30 at 10 05 39 PM](https://user-images.githubusercontent.com/128402101/229004419-f6e5df9d-fece-4251-8ff0-9d073fa69c66.png)
+
+Query 3 allows the resort to market toward specific customers and contact them (e.g. promotional emails/coupons) about must-try activities. This helps to maximize revenue and increase efficiency by specifically targeting those who are not engaging in activities, rather than wasting time and resources to advertise to those who are already aware of and partaking in these activities.
+
+4. Query 4 lists the names and phone numbers of dining employees who work in the highest rated dining establishment.
+ 
+![Screen Shot 2023-03-30 at 10 07 04 PM](https://user-images.githubusercontent.com/128402101/229004593-33dd9e6b-ff0d-4893-8fee-a4a611b3263f.png)
+
+A restaurant with a high star rating is a large source of revenue for the resort and management may want to know the names of the employees who work there and how to contact them to reward them for maintaining such a high achieving restaurant (e.g. via a bonus, raise, awards, recognition) or to know which employees to target for continuous training and supervision in order to keep service within the establishment in top shape.
+
+5. Query 5 lists the guests’ names and the hotel they are checking into if their reservation is during the PM, their room is a single or suite, their check in dates are between 2023-04-01 and 2023-04-10, and their hotel rating is above a 4.
+
+![Screen Shot 2023-03-30 at 10 09 24 PM](https://user-images.githubusercontent.com/128402101/229004878-8f76c354-f888-48e7-9812-dd510315a44c.png)
+
+QUery 5 allows the resort to manage how busy their check in will be during the PM hours of early April in their better hotels where the check in rooms are singles or suites. This can help the resort determine how many employees need to be working the check in desks to check in single or suite reservations in the afternoon of these dates in these specific hotels.
+
+6. Query 6 lists the names of guests who have over 10 activity reservations and the activities that they have those reservations in.
+
+![Screen Shot 2023-03-30 at 10 09 53 PM](https://user-images.githubusercontent.com/128402101/229004928-5ff708ee-d901-4af0-afb4-1dc44495b08a.png)
+
+Query 6 allows the resort to determine what guests are contributing the most to each activity’s revenue. It also the resort to determine who they should market different activities to more since they do not have as many activity reservations. 
+
 
 ## Database information:
 1. The name of the database on the MySQL server. 
